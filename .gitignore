@@ -1,0 +1,158 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+notebooks/00_Intro/out.png
+notebooks/00_Intro/sequence.index
+
+
+notebooks/01_NGS/ag1000g.AC.phase1.AR1.vcf.gz.tbi
+notebooks/01_NGS/centro.vcf.gz
+notebooks/01_NGS/centro.vcf.gz.tbi
+notebooks/01_NGS/standard.vcf.gz
+notebooks/01_NGS/standard.vcf.gz.tbi
+notebooks/01_NGS/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5_extra_anno.20130502.genotypes.vcf.gz.tbi
+notebooks/01_NGS/NA18489.chrom20.ILLUMINA.bwa.YRI.exome.20121211.bam
+notebooks/01_NGS/NA18489.chrom20.ILLUMINA.bwa.YRI.exome.20121211.bam.bai
+notebooks/01_NGS/SRR003265.filt.fastq.gz
+notebooks/01_NGS/SRR003265_1.filt.fastq.gz
+notebooks/01_NGS/SRR003265_2.filt.fastq.gz
+notebooks/01_NGS/example.fasta
+notebooks/01_NGS/genotypes.vcf.gz
+notebooks/01_NGS/genotypes.vcf.gz.tbi
+
+
+notebooks/02_Genomes/PlasmoDB-9.3_Pfalciparum3D7_Genome.fasta
+notebooks/02_Genomes/falciparum.png
+notebooks/02_Genomes/ag.db
+notebooks/02_Genomes/graph.png
+notebooks/02_Genomes/atroparvus.fa.gz
+notebooks/02_Genomes/gambiae.fa.gz
+notebooks/02_Genomes/gambiae.gff.gz
+
+
+notebooks/05_Phylo/other.fasta
+notebooks/05_Phylo/sample.fasta
+notebooks/05_Phylo/ebov.fasta
+notebooks/05_Phylo/ebov_2007.fasta
+notebooks/05_Phylo/ebov_2014.fasta
+notebooks/05_Phylo/L.fasta
+notebooks/05_Phylo/L_P.fasta
+notebooks/05_Phylo/NP.fasta
+notebooks/05_Phylo/NP_P.fasta
+notebooks/05_Phylo/VP35.fasta
+notebooks/05_Phylo/VP35_P.fasta
+notebooks/05_Phylo/VP40.fasta
+notebooks/05_Phylo/VP40_P.fasta
+notebooks/05_Phylo/L_P_align.fasta
+notebooks/05_Phylo/L_align.fasta
+notebooks/05_Phylo/NP_P_align.fasta
+notebooks/05_Phylo/NP_align.fasta
+notebooks/05_Phylo/VP35_P_align.fasta
+notebooks/05_Phylo/VP35_align.fasta
+notebooks/05_Phylo/VP40_P_align.fasta
+notebooks/05_Phylo/VP40_align.fasta
+notebooks/05_Phylo/align.fasta
+notebooks/05_Phylo/trim.fasta
+notebooks/05_Phylo/bp_rx/
+notebooks/05_Phylo/ebola_simple.nex
+notebooks/05_Phylo/my_ebola.nex
+notebooks/05_Phylo/trim.fasta.reduced
